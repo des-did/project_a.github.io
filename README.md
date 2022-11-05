@@ -1,2 +1,3 @@
 # project_a.github.io
-Animal collage
+Cute Animal collage
+Page created following an online lecture project (zero to mastery)
